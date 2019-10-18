@@ -24,6 +24,7 @@ Repo with simple markdown files containg all content that I consumed during my C
 ## Integration Events
 
 - Domain Events vs. Integration Events in Domain-Driven Design and microservices architectures, by Cesar de la Torre: https://devblogs.microsoft.com/cesardelatorre/domain-events-vs-integration-events-in-domain-driven-design-and-microservices-architectures/
+- Domain Events vs. Integration Events, by Arley Pádua: https://medium.com/@arleypadua/domain-events-vs-integration-events-5eb29a34fdbc
 
 ## Projections
 
