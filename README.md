@@ -1,5 +1,5 @@
 # cqrs-path
-Repo with simple markdown files containg all content that I consumed during my CQRS learning path. The order of the links is in, what I consider, the best way for learning from scratch all the concepts, gains and drawbacks before actually start to code.
+Repo with a simple markdown file containg all content that I consumed during my CQRS learning path. The order of the links is in, what I consider, the best way for learning from scratch all the concepts, gains and drawbacks before actually start to code.
 
 ![A CQRS Journey](cqrs-journey.png)
 
