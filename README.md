@@ -6,6 +6,15 @@ Repo with simple markdown files containg all content that I consumed during my C
 - Pattern: Command Query Responsibility Segregation (CQRS), by Chris Richardson: https://microservices.io/patterns/data/cqrs.html
 - CQRS Documents, by Greg Young: https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf
 - How CQRS works with Spring tools, by Jakub Pilimon:  https://thenewstack.io/how-cqrs-works-with-spring-tools/
+- Implementing CQRS with .Net Core (PT-BR): https://www.youtube.com/watch?v=AQcsfIXQj18&list=PLiLEprTIvTvazGZr-FCXdRUNmMZ0GoHk0&index=2&t=0s
+- CQRS Theory and Practice (PT-BR): https://www.youtube.com/watch?v=lBr1DCfM90U&list=PLiLEprTIvTvazGZr-FCXdRUNmMZ0GoHk0&index=3&t=0s
+
+## Two steps back for so much more ahead: some DDD background 
+
+- Domain Driven Design: The Good Parts, by Jimmy Bogard: https://www.youtube.com/watch?v=U6CeaA-Phqo&list=PLiLEprTIvTvazGZr-FCXdRUNmMZ0GoHk0&index=26&t=0s
+- Crafting Wicked Domain Models, by Jimmy Bogard: https://www.youtube.com/watch?v=UYmTUw5LXwQ&list=PLiLEprTIvTvazGZr-FCXdRUNmMZ0GoHk0&index=27&t=0s
+- Implementing Domain Driven Design, by Vaugh Vernon: https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577
+- Domain Driven Design, by Eric Evans: https://www.amazon.com/dp/0321125215
 
 ## Event Sourcing
 
