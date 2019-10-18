@@ -8,6 +8,7 @@ Repo with simple markdown files containg all content that I consumed during my C
 - How CQRS works with Spring tools, by Jakub Pilimon:  https://thenewstack.io/how-cqrs-works-with-spring-tools/
 - Implementing CQRS with .Net Core (PT-BR): https://www.youtube.com/watch?v=AQcsfIXQj18&list=PLiLEprTIvTvazGZr-FCXdRUNmMZ0GoHk0&index=2&t=0s
 - CQRS Theory and Practice (PT-BR): https://www.youtube.com/watch?v=lBr1DCfM90U&list=PLiLEprTIvTvazGZr-FCXdRUNmMZ0GoHk0&index=3&t=0s
+- Exploring CQRS and Event Sourcing (Microsoft patterns & practices): https://www.amazon.com/dp/B00EUGIRQY/ref=docs-os-doi_0
 
 ## Two steps back for so much more ahead: some DDD background 
 
