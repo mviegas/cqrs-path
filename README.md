@@ -1,5 +1,5 @@
 # cqrs-path
-Repo with simple markdown files containg all content that I consumed during my CQRS learning path.
+Repo with simple markdown files containg all content that I consumed during my CQRS learning path. The order of the links is in, what I consider, the best way for learning from scratch all the concepts, gains and drawbacks before actually start to code.
 
 ## General stuff
 
@@ -14,11 +14,15 @@ Repo with simple markdown files containg all content that I consumed during my C
 - Event Sourcing: The Good, The Bad and The Ugly, by Dennis Doomen: https://www.continuousimprover.com/2017/11/event-sourcing-good-bad-and-ugly.html
 -What they don’t tell you about event sourcing, by Hugo Rocha: https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a
 
-## Domain Events vs Integration Events
+## Domain Events
 
-- Domain events: simple and reliable solution, by Vladimir Khorikov: https://enterprisecraftsmanship.com/posts/domain-events-simple-reliable-solution/
 - Domain Events, by Martin Fowler: https://martinfowler.com/eaaDev/DomainEvent.html
--  https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-events-design-implementation
+- https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-events-design-implementation
+- Domain events: simple and reliable solution, by Vladimir Khorikov: https://enterprisecraftsmanship.com/posts/domain-events-simple-reliable-solution/
+- A better domain events pattern, by Jimmy Bogard https://lostechies.com/jimmybogard/2014/05/13/a-better-domain-events-pattern/
+
+## Integration Events
+
 - Domain Events vs. Integration Events in Domain-Driven Design and microservices architectures, by Cesar de la Torre: https://devblogs.microsoft.com/cesardelatorre/domain-events-vs-integration-events-in-domain-driven-design-and-microservices-architectures/
 
 ## Projections
