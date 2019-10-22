@@ -25,6 +25,8 @@ Repo with a simple markdown file containg all content that I consumed during my 
 - https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-events-design-implementation
 - Domain events: simple and reliable solution, by Vladimir Khorikov: https://enterprisecraftsmanship.com/posts/domain-events-simple-reliable-solution/
 - A better domain events pattern, by Jimmy Bogard https://lostechies.com/jimmybogard/2014/05/13/a-better-domain-events-pattern/
+- How to publish and handle Domain Events, by Kamil Grzybek: http://www.kamilgrzybek.com/design/how-to-publish-and-handle-domain-events/
+- Handling Domain Events: Missing Part, by Kamil Grzybek: http://www.kamilgrzybek.com/design/handling-domain-events-missing-part/
 
 ## Event Sourcing
 
