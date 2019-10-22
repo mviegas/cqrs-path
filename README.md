@@ -24,7 +24,8 @@ Repo with a simple markdown file containg all content that I consumed during my 
 - Event Sourcing, by Martin Fowler: https://martinfowler.com/eaaDev/EventSourcing.html
 - The Many Meanings of Event-Driven Architecture, by Martin Fowler: https://www.youtube.com/watch?v=STKCRSUsyP0
 - Event Sourcing: The Good, The Bad and The Ugly, by Dennis Doomen: https://www.continuousimprover.com/2017/11/event-sourcing-good-bad-and-ugly.html
--What they don’t tell you about event sourcing, by Hugo Rocha: https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a
+- What they don’t tell you about event sourcing, by Hugo Rocha: https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a
+- Why Event Sourcing is a microservice communication anti-pattern, by Oliver Libutzki: https://dev.to/olibutzki/why-event-sourcing-is-a-microservice-anti-pattern-3mcj
 
 ## Domain Events
 
