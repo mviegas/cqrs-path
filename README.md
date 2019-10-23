@@ -8,10 +8,9 @@ Repo with a simple markdown file containg all content that I consumed during my 
 - Pattern: Command Query Responsibility Segregation (CQRS), by Chris Richardson: https://microservices.io/patterns/data/cqrs.html
 - CQRS Documents, by Greg Young: https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf
 - CQRS, Task Based UIs, Event Sourcing agh!, by Greg Young: http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/
-- How CQRS works with Spring tools, by Jakub Pilimon:  https://thenewstack.io/how-cqrs-works-with-spring-tools/
+- CQRS Bliki, by Martin Fowler: https://martinfowler.com/bliki/CQRS.html
 - Implementing CQRS with .Net Core (PT-BR): https://www.youtube.com/watch?v=AQcsfIXQj18&list=PLiLEprTIvTvazGZr-FCXdRUNmMZ0GoHk0&index=2&t=0s
 - CQRS Theory and Practice (PT-BR): https://www.youtube.com/watch?v=lBr1DCfM90U&list=PLiLEprTIvTvazGZr-FCXdRUNmMZ0GoHk0&index=3&t=0s
-- Exploring CQRS and Event Sourcing (Microsoft patterns & practices): https://www.amazon.com/dp/B00EUGIRQY/ref=docs-os-doi_0
 - Task Based UIs: https://cqrs.wordpress.com/documents/task-based-ui/
 
 ## Two steps back for so much more ahead: some DDD background 
@@ -37,6 +36,8 @@ Repo with a simple markdown file containg all content that I consumed during my 
 - Event Sourcing: The Good, The Bad and The Ugly, by Dennis Doomen: https://www.continuousimprover.com/2017/11/event-sourcing-good-bad-and-ugly.html
 - What they don’t tell you about event sourcing, by Hugo Rocha: https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a
 - Why Event Sourcing is a microservice communication anti-pattern, by Oliver Libutzki: https://dev.to/olibutzki/why-event-sourcing-is-a-microservice-anti-pattern-3mcj
+- Exploring CQRS and Event Sourcing (Microsoft patterns & practices): https://www.amazon.com/dp/B00EUGIRQY/ref=docs-os-doi_0
+- How CQRS works with Spring tools, by Jakub Pilimon:  https://thenewstack.io/how-cqrs-works-with-spring-tools/
 
 ## Integration Events
 
