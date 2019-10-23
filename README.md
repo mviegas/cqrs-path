@@ -7,6 +7,7 @@ Repo with a simple markdown file containg all content that I consumed during my 
 
 - Pattern: Command Query Responsibility Segregation (CQRS), by Chris Richardson: https://microservices.io/patterns/data/cqrs.html
 - CQRS Documents, by Greg Young: https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf
+- CQRS, Task Based UIs, Event Sourcing agh!, by Greg Young: http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/
 - How CQRS works with Spring tools, by Jakub Pilimon:  https://thenewstack.io/how-cqrs-works-with-spring-tools/
 - Implementing CQRS with .Net Core (PT-BR): https://www.youtube.com/watch?v=AQcsfIXQj18&list=PLiLEprTIvTvazGZr-FCXdRUNmMZ0GoHk0&index=2&t=0s
 - CQRS Theory and Practice (PT-BR): https://www.youtube.com/watch?v=lBr1DCfM90U&list=PLiLEprTIvTvazGZr-FCXdRUNmMZ0GoHk0&index=3&t=0s
