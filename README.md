@@ -49,3 +49,8 @@ Repo with a simple markdown file containg all content that I consumed during my 
 - Projection Building Blocks: What you'll need to build projections, by Barry O Sullivan: https://dev.to/barryosull/projection-building-blocks-what-youll-need-to-build-projections--5g1n
 - Managing Projectors is harder than you think, by Barry O Sullivan: https://dev.to/barryosull/managing-projectors-is-harder-than-you-think-2mf 
 - Polyglot Data, talk by Greg Young: https://www.youtube.com/watch?v=hv2dKtPq0ME&t=24m55s
+
+## Messaging and some other stuff
+- Background tasks with hosted services in ASP.NET Core: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-3.0&tabs=visual-studio
+- ASP.NET Core - Background Service, by Bruno Brito (PT-BR): https://www.brunobrito.net.br/aspnet-core-background-services/
+- ASP.NET Core & Microsservices - Event Sourcing w/ Background Services and RabbitMQ (PT-BR): https://www.brunobrito.net.br/asp-net-core-event-sourcing-microsservicos-background-services-rabbit/
