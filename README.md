@@ -31,6 +31,7 @@ Repo with a simple markdown file containg all content that I consumed during my 
 
 ## Event Sourcing
 
+- Event Granularity: Modelling events in event driven applications, by Barry O Sullivan: https://dev.to/barryosull/event-granularity-modelling-events-in-event-driven-applications-e50
 - Event Sourcing, by Martin Fowler: https://martinfowler.com/eaaDev/EventSourcing.html
 - The Many Meanings of Event-Driven Architecture, by Martin Fowler: https://www.youtube.com/watch?v=STKCRSUsyP0
 - Event Sourcing: The Good, The Bad and The Ugly, by Dennis Doomen: https://www.continuousimprover.com/2017/11/event-sourcing-good-bad-and-ugly.html
