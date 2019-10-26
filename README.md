@@ -12,6 +12,7 @@ Repo with a simple markdown file containg all content that I consumed during my 
 - Implementing CQRS with .Net Core (PT-BR): https://www.youtube.com/watch?v=AQcsfIXQj18&list=PLiLEprTIvTvazGZr-FCXdRUNmMZ0GoHk0&index=2&t=0s
 - CQRS Theory and Practice (PT-BR): https://www.youtube.com/watch?v=lBr1DCfM90U&list=PLiLEprTIvTvazGZr-FCXdRUNmMZ0GoHk0&index=3&t=0s
 - Task Based UIs: https://cqrs.wordpress.com/documents/task-based-ui/
+- Microservices + Events + Docker = A Perfect Trio, talk by Chris Richardson: https://www.youtube.com/watch?v=sSm2dRarhPo
 
 ## Two steps back for so much more ahead: some DDD background 
 
