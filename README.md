@@ -27,6 +27,9 @@ Repo with a simple markdown file containg all content that I consumed during my 
 - https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-events-design-implementation
 - Domain events: simple and reliable solution, by Vladimir Khorikov: https://enterprisecraftsmanship.com/posts/domain-events-simple-reliable-solution/
 - A better domain events pattern, by Jimmy Bogard https://lostechies.com/jimmybogard/2014/05/13/a-better-domain-events-pattern/
+- Domain Events vs. Integration Events in Domain-Driven Design and microservices architectures, by Cesar de la Torre: https://devblogs.microsoft.com/cesardelatorre/domain-events-vs-integration-events-in-domain-driven-design-and-microservices-architectures/
+- Using Domain Events within a .NET Core Microservice, by Cesar de la Torre: https://devblogs.microsoft.com/cesardelatorre/using-domain-events-within-a-net-core-microservice/
+- Domain Events vs. Integration Events, by Arley Pádua: https://medium.com/@arleypadua/domain-events-vs-integration-events-5eb29a34fdbc
 - How to publish and handle Domain Events, by Kamil Grzybek: http://www.kamilgrzybek.com/design/how-to-publish-and-handle-domain-events/
 - Handling Domain Events: Missing Part, by Kamil Grzybek: http://www.kamilgrzybek.com/design/handling-domain-events-missing-part/
 
@@ -40,11 +43,6 @@ Repo with a simple markdown file containg all content that I consumed during my 
 - Why Event Sourcing is a microservice communication anti-pattern, by Oliver Libutzki: https://dev.to/olibutzki/why-event-sourcing-is-a-microservice-anti-pattern-3mcj
 - Exploring CQRS and Event Sourcing (Microsoft patterns & practices): https://www.amazon.com/dp/B00EUGIRQY/ref=docs-os-doi_0
 - How CQRS works with Spring tools, by Jakub Pilimon:  https://thenewstack.io/how-cqrs-works-with-spring-tools/
-
-## Integration Events
-
-- Domain Events vs. Integration Events in Domain-Driven Design and microservices architectures, by Cesar de la Torre: https://devblogs.microsoft.com/cesardelatorre/domain-events-vs-integration-events-in-domain-driven-design-and-microservices-architectures/
-- Domain Events vs. Integration Events, by Arley Pádua: https://medium.com/@arleypadua/domain-events-vs-integration-events-5eb29a34fdbc
 
 ## Projections
 
