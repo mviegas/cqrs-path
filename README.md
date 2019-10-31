@@ -5,6 +5,7 @@ Repo with a simple markdown file containg all content that I consumed during my 
 
 ## General stuff
 
+- Command Query Separtion, by Martin Folwer: https://martinfowler.com/bliki/CommandQuerySeparation.html
 - Pattern: Command Query Responsibility Segregation (CQRS), by Chris Richardson: https://microservices.io/patterns/data/cqrs.html
 - CQRS Documents, by Greg Young: https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf
 - CQRS, Task Based UIs, Event Sourcing agh!, by Greg Young: http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/
@@ -13,6 +14,7 @@ Repo with a simple markdown file containg all content that I consumed during my 
 - CQRS Theory and Practice (PT-BR): https://www.youtube.com/watch?v=lBr1DCfM90U&list=PLiLEprTIvTvazGZr-FCXdRUNmMZ0GoHk0&index=3&t=0s
 - Task Based UIs: https://cqrs.wordpress.com/documents/task-based-ui/
 - Microservices + Events + Docker = A Perfect Trio, talk by Chris Richardson: https://www.youtube.com/watch?v=sSm2dRarhPo
+- Tackling complexity in CQRS, by Vladikk: https://vladikk.com/2017/03/20/tackling-complexity-in-cqrs/
 
 ## Two steps back for so much more ahead: some DDD background 
 
