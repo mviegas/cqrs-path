@@ -54,6 +54,7 @@ Repo with a simple markdown file containg all content that I consumed during my 
 - Polyglot Data, talk by Greg Young: https://www.youtube.com/watch?v=hv2dKtPq0ME&t=24m55s
 
 ## Messaging and some other stuff
+- Race conditions don't exist: http://udidahan.com/2010/08/31/race-conditions-dont-exist/
 - Background tasks with hosted services in ASP.NET Core: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-3.0&tabs=visual-studio
 - ASP.NET Core - Background Service, by Bruno Brito (PT-BR): https://www.brunobrito.net.br/aspnet-core-background-services/
 - ASP.NET Core & Microsservices - Event Sourcing w/ Background Services and RabbitMQ (PT-BR): https://www.brunobrito.net.br/asp-net-core-event-sourcing-microsservicos-background-services-rabbit/
