@@ -46,8 +46,9 @@ Repo with a simple markdown file containg all content that I consumed during my 
 - Exploring CQRS and Event Sourcing (Microsoft patterns & practices): https://www.amazon.com/dp/B00EUGIRQY/ref=docs-os-doi_0
 - How CQRS works with Spring tools, by Jakub Pilimon:  https://thenewstack.io/how-cqrs-works-with-spring-tools/
 
-## Projections
+## Data, Consistency, Projections
 
+- Materialized View Pattern: https://docs.microsoft.com/en-us/azure/architecture/patterns/materialized-view
 - Projection Building Blocks: What you'll need to build projections, by Barry O Sullivan: https://dev.to/barryosull/projection-building-blocks-what-youll-need-to-build-projections--5g1n
 - Managing Projectors is harder than you think, by Barry O Sullivan: https://dev.to/barryosull/managing-projectors-is-harder-than-you-think-2mf 
 - Polyglot Data, talk by Greg Young: https://www.youtube.com/watch?v=hv2dKtPq0ME&t=24m55s
