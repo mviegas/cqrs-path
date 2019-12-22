@@ -3,6 +3,8 @@ Repo with a simple markdown file containg all content that I consumed during my 
 
 ![A CQRS Journey](cqrs-journey.png)
 
+> Image from the book [*Exploring CQRS and Event Sourcing (Microsoft patterns & practices)*](https://www.amazon.com/dp/B00EUGIRQY/ref=docs-os-doi_0). This book it is a great place to start, btw.
+
 ## General stuff
 
 - Command Query Separtion, by Martin Folwer: https://martinfowler.com/bliki/CommandQuerySeparation.html
@@ -43,7 +45,6 @@ Repo with a simple markdown file containg all content that I consumed during my 
 - Event Sourcing: The Good, The Bad and The Ugly, by Dennis Doomen: https://www.continuousimprover.com/2017/11/event-sourcing-good-bad-and-ugly.html
 - What they don’t tell you about event sourcing, by Hugo Rocha: https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a
 - Why Event Sourcing is a microservice communication anti-pattern, by Oliver Libutzki: https://dev.to/olibutzki/why-event-sourcing-is-a-microservice-anti-pattern-3mcj
-- Exploring CQRS and Event Sourcing (Microsoft patterns & practices): https://www.amazon.com/dp/B00EUGIRQY/ref=docs-os-doi_0
 - How CQRS works with Spring tools, by Jakub Pilimon:  https://thenewstack.io/how-cqrs-works-with-spring-tools/
 
 ## Data, Consistency, Projections
